@@ -18,7 +18,7 @@
                 </Border.Background>
             </Border>
             <Image x:Name="img" Source="/Images/logo.png" Margin="20,0,0,0" HorizontalAlignment="Left" Width="60" Height="60" VerticalAlignment="Top" />
-            <Label Content="Мастер пол" Foreground="#F4E8D3"  FontWeight="Bold" FontFamily="Segoe UI"  FontSize="25" Margin="90,0,450,0" VerticalAlignment="Center" HorizontalContentAlignment="Left" />
+            <Label Content="Мастер пол" Foreground="#F4E8D3"  FontWeight="Bold" FontFamily="Segoe UI" FontSize="25" Margin="90,0,450,0" VerticalAlignment="Center" HorizontalContentAlignment="Left" />
         </Grid>
     </Grid>
 </Page>

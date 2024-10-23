@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\App.xaml
-2-926265875
+3-1540510187
 
-141774115864
+151937278807
 192-1533232326
-MainWindow.xaml;Pages\Main.xaml;
+Elements\Item.xaml;MainWindow.xaml;Pages\Main.xaml;
 
-False
+True
 
