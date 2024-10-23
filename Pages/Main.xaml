@@ -1,0 +1,24 @@
+﻿<Page x:Class="OsokinUP.Main"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:OsokinUP"
+      mc:Ignorable="d" Height="450" Width="800"
+      Title="Main">
+
+    <Grid Background="White">
+        <Grid Margin="0,0,0,0" VerticalAlignment="Top" Height="60">
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="31" Direction="260" Color="#FFC1C1C1" ShadowDepth="0"/>
+            </Grid.Effect>
+            <Border CornerRadius="0,0,10,10" Margin="0,0,0,0">
+                <Border.Background>
+                    <SolidColorBrush Color="#67BA80" Opacity="1.0"/>
+                </Border.Background>
+            </Border>
+            <Image x:Name="img" Source="/Images/logo.png" Margin="20,0,0,0" HorizontalAlignment="Left" Width="60" Height="60" VerticalAlignment="Top" />
+            <Label Content="Мастер пол" Foreground="#F4E8D3"  FontWeight="Bold" FontFamily="Segoe UI"  FontSize="25" Margin="90,0,450,0" VerticalAlignment="Center" HorizontalContentAlignment="Left" />
+        </Grid>
+    </Grid>
+</Page>
