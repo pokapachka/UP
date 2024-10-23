@@ -40,3 +40,5 @@ C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\obj\Debug\netcoreapp3.1\OsokinU
 C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\obj\Debug\netcoreapp3.1\OsokinUP.csproj.CoreCompileInputs.cache
 C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\obj\Debug\netcoreapp3.1\OsokinUP.genruntimeconfig.cache
 C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\obj\Debug\netcoreapp3.1\OsokinUP.csproj.AssemblyReference.cache
+C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\obj\Debug\netcoreapp3.1\Elements\Item.g.cs
+C:\Users\student-A210.PERMAVIAT\Desktop\OsokinUP\obj\Debug\netcoreapp3.1\Elements\Item.baml

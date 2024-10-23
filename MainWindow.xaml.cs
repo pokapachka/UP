@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using OsokinUP.Models;
 
 namespace OsokinUP
 {
@@ -20,9 +21,17 @@ namespace OsokinUP
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static MainWindow mainWindow;
+        
         public MainWindow()
         {
             InitializeComponent();
+            mainWindow = this;
+            OpenPages(new Main());
+        }
+        public void OpenPages(Page page)
+        {
+            frame.Navigate(page);
         }
     }
 }

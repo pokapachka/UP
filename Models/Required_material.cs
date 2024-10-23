@@ -4,7 +4,10 @@ using System.Text;
 
 namespace OsokinUP.Models
 {
-    class Required_material
+    public class Required_material
     {
+        public int Id { get; set; }
+        public int Product { get; set; }
+        public int Material { get; set; }
     }
 }

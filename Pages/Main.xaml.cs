@@ -18,9 +18,11 @@ namespace OsokinUP
     /// </summary>
     public partial class Main : Page
     {
+        public static Main main;
         public Main()
         {
             InitializeComponent();
+            main = this;
         }
     }
 }
